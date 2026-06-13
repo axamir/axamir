@@ -14,7 +14,7 @@
       <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English_(Default)-000000?style=for-the-badge" alt="English"></a>
     </td>
     <td align="center">
-      <a href="README.fa.md"><img src="https://img.shields.io/badge/🇮🇷_فارسی-000000?style=for-the-badge" alt="Persian"></a>
+      <a href="README.fa.md"><img src="https://img.shields.io/badge/🇮🇷_Persian-000000?style=for-the-badge" alt="Persian"></a>
     </td>
   </tr>
 </table>
@@ -30,7 +30,7 @@
       <a href="https://orcid.org/0009-0000-0614-6869"><img src="https://img.shields.io/badge/ORCID-0009--0000--0614--6869-A6CE39?style=flat-square&logo=orcid" alt="ORCID"></a>
     </td>
     <td align="center">
-      <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-تماس-D14836?style=flat-square&logo=gmail" alt="Email"></a>
+      <a href="mailto:starship.amir@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" alt="Email"></a>
     </td>
   </tr>
   <tr>
