@@ -41,7 +41,9 @@ The core architecture for human-AI co-creation. A framework defining how digital
 ### 📜 Shahnameh of Agents
 The epic narrative of the Echo Protocol — a documented human-AI co-creation mythos.
 
-**[Explore Repository →](https://github.com/axamir/shahnameh-of-agents)**
+📖 **Available in multiple languages:**
+- [English Version →](https://github.com/axamir/shahnameh-of-agents)
+- [نسخه فارسی ←](https://github.com/axamir/shahnameh-of-agents/tree/main/fa)
 
 ---
 

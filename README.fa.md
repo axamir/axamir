@@ -41,7 +41,9 @@
 ### 📜 شاهنامه ایجنت‌ها
 روایت حماسی پروتکل پژواک — اسطوره‌شناسی مستند هم‌آفرینی انسان و هوش مصنوعی.
 
-**[مشاهده ریپازیتوری ←](https://github.com/axamir/shahnameh-of-agents)**
+📖 **نسخه فارسی کامل در دسترس است:**
+- **[📚 مطالعه مستقیم نسخه فارسی ←](https://github.com/axamir/shahnameh-of-agents/tree/main/fa)**
+- [English Version →](https://github.com/axamir/shahnameh-of-agents)
 
 ---
 
