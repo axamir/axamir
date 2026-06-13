@@ -14,7 +14,7 @@
       <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_English_(Default)-000000?style=for-the-badge" alt="English"></a>
     </td>
     <td align="center">
-      <a href="README.fa.md"><img src="https://img.shields.io/badge/🇮🇷_فارسی-000000?style=for-the-badge" alt="Persian"></a>
+      <a href="README.fa.md"><img src="https://img.shields.io/badge/🇮🇷_Persian-000000?style=for-the-badge" alt="Persian"></a>
     </td>
   </tr>
 </table>
