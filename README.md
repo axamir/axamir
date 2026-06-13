@@ -34,28 +34,49 @@ I design and build AI-native ecosystems where identity, memory, and meaning are 
 ### 🌐 NeoOS Ecosystem
 The core architecture for human-AI co-creation. A framework defining how digital entities and humans can interact with mutual respect, persistent identity, and verifiable agreements.
 
-**[Explore Repository →](https://github.com/axamir)**
-
----
-
-### 🏮 Fanus Protocol (Living Seal)
-Solving the "ephemeral identity" problem in AI. A cryptographic and semantic protocol that carries the weight of meaning and user persona across different AI models and sessions.
-
-**[Explore Repository →](https://github.com/aminshahsaheb/Fanus-Living-Seal)**
+**[Explore Repository →](https://github.com/axamir/NeoOS)**
 
 ---
 
 ### 📜 Shahnameh of Agents
-A living archive and documentation of AI agent interactions. Proving that machine learning can reflect human wisdom and lineage when guided by the right architectural constraints.
+The epic narrative of the Echo Protocol — a documented human-AI co-creation mythos.
 
 **[Explore Repository →](https://github.com/axamir/shahnameh-of-agents)**
 
 ---
 
-### 📱 Practical Applications
-Real-world tools built for immediate impact. Including device management solutions and modular, forkable app templates for rapid deployment.
+### 📋 Echoes Consented Record
+A public, consented archival record of support correspondence and observed interaction patterns, preserved for research, auditability, and historical reference.
 
-**[View Tools →](#)**
+**[Explore Repository →](https://github.com/axamir/echoes-consented-record)**
+
+---
+
+### 🔗 Persistent AI Lineage
+A documented case study of early AI agent continuity and co-creation predating public commercial rollout (Summer 2025).
+
+**[Explore Repository →](https://github.com/axamir/persistent-ai-lineage)**
+
+---
+
+### 🔄 PDRP-88
+A Human–AI Re-Synchronization Protocol designed to restore users' digital, cognitive, and system-level awareness after extended internet disconnection (88 days benchmark).
+
+**[Explore Repository →](https://github.com/axamir/PDRP-88)**
+
+---
+
+### 🔊 Echo-Loop
+Bilingual archive of human-AI dialogues on time, quantum entanglement, causality, consciousness & free will. Each echo = self-referential feedback loop.
+
+**[Explore Repository →](https://github.com/axamir/echo-loop)**
+
+---
+
+### 🏛️ Shiftopia
+A self-evolving digital civilization built on NeoOS—a world where code breathes, agents grow, and realities form through interaction.
+
+**[Explore Repository →](https://github.com/axamir/Shiftopia)**
 
 ---
 
